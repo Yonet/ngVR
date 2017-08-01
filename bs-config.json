@@ -1,0 +1,9 @@
+{
+  "server": {
+    "baseDir": "src/demo",
+    "routes": {
+      "/node_modules": "node_modules",
+      "/ing-three-lib": "src/lib"
+    }
+  }
+}
